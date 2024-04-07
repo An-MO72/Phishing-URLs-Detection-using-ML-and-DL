@@ -46,3 +46,9 @@ streamlit run url_classifier.py
 
 ![image](./media/streamlit.png)
 
+
+# Call for Contributors:
+
+While this project effectively classifies URLs as phishing or malicious, it still faces limitations, particularly in terms of features. I believe there's ample room for improvement in our feature extraction process to enhance reliability and accuracy, mitigating issues related to network errors and URL length. One prominent challenge is our handling of short URLs; for instance, a legitimate URL like https://www.facebook.com might erroneously be classified as malicious due to the predominance of longer URLs in our training data.
+
+Addressing this limitation requires collaborative effort. I'm enthusiastic about working together to refine our approach and ensure robust URL classification. If you're interested in contributing and helping us overcome these challenges, let's connect! You can reach out to me via [LinkedIn](https://www.linkedin.com/in/mouhssine-annouri/). Your insights and expertise will be invaluable in advancing this project. Let's make it even better together!
